@@ -1,0 +1,40 @@
+{
+    "insumos": {
+        "ceras": {
+            "cera_soja_molde_plus_apf": {
+                "nombre": "Cera soja molde+ A.P.F",
+                "descripción": "",
+                "costo": 39900,
+                "cantidad": "1",
+                "medida": "Kg",
+                "punto_fusion": "58-62°C",
+                "temperatura_vertido": "50-55°C",
+                "aplicacion": "Molde",
+                "temperatura_aroma": "65-70°C",
+                "temperatura_pigmento": "descendente en 75°C",
+                "porcentaje_aroma": "4-5%"
+            },
+            "cera_vaso_bpf": {
+                "nombre": "Cera de vaso B.P.F",
+                "descripción": "70% cera de palma y 30% parafina.",
+                "costo": 20000,
+                "cantidad": "1",
+                "medida": "Kg",
+                "punto_fusion": "50.4°C",
+                "aplicacion": "Recipiente",
+                "temperatura_vertido": "50-55°C",
+                "temperatura_pigmento": "descendente en 75°C",
+                "temperatura_aroma": "descendente en 70°C",
+                "porcentaje_aroma": "6-8%"
+            }
+        },
+        "pabilos": {},
+        "aromas":{},
+        "pigmentos": {},
+        "moldes": {}
+    },
+    "productos": {
+        "vela_cabeza_perro": {},
+        "ceramica_obalada_base": {}
+    }
+}
