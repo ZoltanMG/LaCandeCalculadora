@@ -12,7 +12,8 @@
                 "aplicacion": "Molde",
                 "temperatura_aroma": "65-70°C",
                 "temperatura_pigmento": "descendente en 75°C",
-                "porcentaje_aroma": "4-5%"
+                "porcentaje_aroma": "4-5%",
+                "imagen": "https://i.ebayimg.com/thumbs/images/g/wHMAAOSw5QJlJr3n/s-l640.jpg"
             },
             "cera_vaso_bpf": {
                 "nombre": "Cera de vaso B.P.F",
@@ -25,16 +26,20 @@
                 "temperatura_vertido": "50-55°C",
                 "temperatura_pigmento": "descendente en 75°C",
                 "temperatura_aroma": "descendente en 70°C",
-                "porcentaje_aroma": "6-8%"
+                "porcentaje_aroma": "6-8%",
+                "imagen": "https://www.bazzarbog.com/108849-large_default/cera-vaso-mezcla-de-cera-de-palma-parafina-1-kilo.jpg"
             }
-        },
-        "pabilos": {},
-        "aromas":{},
-        "pigmentos": {},
-        "moldes": {}
+        }
     },
     "productos": {
-        "vela_cabeza_perro": {},
-        "ceramica_obalada_base": {}
+        "vela_cabeza_perro": {
+            "nombre": "vela cabeza de perro",
+            "descripción": "Vela en vaso de vidrio, llenado hasta la mitad con cera de vaso y el resto la cabeza del perro incorporada",
+            "insumos": [
+                {"ceras": "cera_soja_molde_plus_apf"},
+                {"ceras": "cera_vaso_bpf"}
+            ],
+            "imagen": "https://i.etsystatic.com/15614105/r/il/6c1cfa/3685703217/il_fullxfull.3685703217_hmxv.jpg"
+        }
     }
 }
